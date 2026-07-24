@@ -6,121 +6,96 @@
   <img src="https://raw.githubusercontent.com/yoannchb/awesome-github-profile-readme/master/images/wave.gif" width="30" height="30" alt="Waving Hand" />
 </p>
 
+<!-- Badges -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-username"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" /></a>
-  <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio Badge" /></a>
+  <a href="https://www.linkedin.com/in/your-linkedin-username">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
+  </a>
+  <a href="https://your-portfolio.com">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio Badge" />
+  </a>
 </p>
 
----
+---  
 
-## About Me
+## 👋 About Me  
 
-<p align="center">
-  <img src="https://img.icons8.com/fluency/48/000000/python.png" alt="Python" />
-  <img src="https://img.icons8.com/fluency/48/000000/javascript.png" alt="JavaScript" />
-  <img src="https://img.icons8.com/fluency/48/000000/c-plus-plus.png" alt="C++" />
-  <img src="https://img.icons8.com/fluency/48/000000/java-coffee-cup-logo.png" alt="Java" />
-</p>
+I am a **software engineering student** passionate about **AI, full‑stack development, and open‑source contributions**. I enjoy building end‑to‑end applications that solve real‑world problems, learning new technologies quickly, and collaborating in distributed teams.
 
-- **Role:** AI & Data Science Student
-- **College:** KGISL Institute of Technology
-- **Motto:** "Building intelligent systems, one commit at a time."
-- **Interests:** AI, ML, Deep Learning, Computer Vision, Automation, Open Source
-- **Hobbies:** Photography & Editing
+- 🔭 **Current focus:** Building a *smart attendance marker* using computer vision and cloud services.  
+- 🌱 **Learning:** Advanced **Full‑Stack** (React, Node.js, DynamoDB) and **Machine Learning** (PyTorch, FastAPI).  
+- 📫 **Contact:** LinkedIn, Email, or my personal portfolio (links above).
 
----
+---  
 
-## Tech Stack
+## 🛠️ Skills  
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="React" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40" alt="Tailwind CSS" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="40" height="40" alt="Flask" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="40" height="40" alt="Django" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="40" height="40" alt="FastAPI" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40" alt="GitHub" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL" />
-</p>
+| Languages | Frameworks & Tools | Cloud & DevOps |
+|-----------|-------------------|----------------|
+| Python, JavaScript, TypeScript, Java, C++ | React, Next.js, Node.js, Express, Flask, FastAPI, TensorFlow, PyTorch | AWS (Lambda, S3, DynamoDB), Docker, GitHub Actions, CI/CD |
+| HTML5, CSS3, SQL | Redux, Tailwind CSS, Material‑UI | Git, GitHub, VS Code |
 
----
+---  
 
-## 📊 GitHub Statistics
+## 📂 Projects (Pinned)  
+
+| Project | Description | Tech Stack | Live / Demo |
+|--------|-------------|------------|-------------|
+| **Smart Attendance Marker** | Real‑time attendance using face recognition; stores logs in DynamoDB. | Python, OpenCV, AWS Lambda, DynamoDB | [Demo Video](#) |
+| **Portfolio Website** | Responsive personal site with dark‑mode, animated hero, and project showcase. | Next.js, Tailwind CSS, Vercel | [Live Site](https://your-portfolio.com) |
+| **AI‑Chatbot** | Context‑aware chatbot powered by GPT‑4; integrates with Discord. | Node.js, OpenAI API, Docker | [GitHub Repo](https://github.com/Lokeshvishal-2007/ai-chatbot) |
+| **Contribution Snake** *(GitHub Action)* | Hourly contribution‑snake animation that updates a `snake.svg` in the repo. | GitHub Actions, Python, `contribution-snake` lib | See **.github/workflows/contribution‑snake.yml** |
+
+---  
+
+## 📈 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="GitHub Streak" />
+  <a href="https://github.com/Lokeshvishal-2007">
+    <img src="https://github-readme-stats.vercel.app/api?username=Lokeshvishal-2007&show_icons=true&theme=radical" alt="GitHub Stats" />
+  </a>
+  <br/>
+  <a href="https://github.com/Lokeshvishal-2007">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lokeshvishal-2007&theme=radical" alt="GitHub Streak" />
+  </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+---  
 
----
+## 🐍 Contribution Snake (GitHub Action)  
 
-## 🏆 GitHub Trophies
+Add a playful visual to your repo that updates **every hour**:
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="GitHub Trophies" />
-</p>
+```yaml
+name: "🐍 Contribution Snake"
 
----
+on:
+  schedule:
+    - cron: "0 * * * *"   # hourly
+  workflow_dispatch:
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <a href="https://github.com/athul/awesome-github-profile-readme#🐍-contribution-snake-">⚡️ Check out my contribution snake</a>
-</p>
-
----
-
-## 🌍 Visitor Counter
-
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=YOUR_GITHUB_USERNAME.Lokeshvishal-2007" alt="Visitor Counter" />
-</p>
-
----
-
-## 🚀 Featured Projects
-
-| Project | Description |
-| ------- | ----------- |
-| **Smart Attendance System** | *Placeholder – describe the project, tech stack, and link.* |
-| **AttendAI** | *Placeholder – describe the project, tech stack, and link.* |
-| **Face Recognition System** | *Placeholder – describe the project, tech stack, and link.* |
-| **AI Factory Project** | *Placeholder – describe the project, tech stack, and link.* |
-| **Flask Dashboard** | *Placeholder – describe the project, tech stack, and link.* |
-| **Open Source Contributions** | *Placeholder – list notable contributions with links.* |
-
----
-
-## 🏅 Achievements
-
-- *Placeholder for certificates, hackathon wins, publications, etc.*
-
----
-
-## 📚 Currently Learning
-
-- *Placeholder for courses, frameworks, or concepts you are currently studying.*
-
----
-
-## 🎉 Fun Facts
-
-- *Placeholder for fun personal facts or trivia.*
-
----
-
-<!--
-Replace the following placeholders with your actual data:
-- YOUR_GITHUB_USERNAME → your GitHub handle
-- your-linkedin-username → your LinkedIn profile URL
-- your.email@example.com → your email address
-- https://your-portfolio.com → link to your portfolio website
-- In the Featured Projects table, replace the placeholder text with actual project details and links.
--->
+jobs:
+  update-snake:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+      - run: |
+          pip install git+https://github.com/karanpratap/contribution-snake.git
+      - env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          snake --username ${{ github.actor }} --output ./snake.svg
+      - run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add snake.svg
+          git commit -m "Update contribution snake 🐍"
+          git push
